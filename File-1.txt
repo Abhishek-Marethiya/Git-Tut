@@ -3,3 +3,6 @@ I am file1
 Modify file1 inside feature 1 branch
 
 fixed bugs
+
+
+fixed in feature -1
