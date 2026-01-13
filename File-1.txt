@@ -1,4 +1,4 @@
-
+I am file1 
 
 Modify file1 inside feature 1 branch
 
